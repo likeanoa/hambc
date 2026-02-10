@@ -1,4 +1,4 @@
-# Home Assistant Mobile Battery Percentage
+# Home Assistant Remote Battery Charge
 A small python script to POST the host device battery percentage to Home Assistant's REST API.
 
 The config.json contains placeholder values to guide you on how to configure them.
