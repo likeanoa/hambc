@@ -1,0 +1,6 @@
+{
+    "url": "your-base-ha-url-here",
+    "token": "your-long-lived-acces-token-here",
+    "entity_id": "your-preferred-sensor-name-here",
+    "verbose": "true"
+}
